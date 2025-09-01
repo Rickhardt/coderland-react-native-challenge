@@ -6,7 +6,7 @@ import { Button } from '@react-navigation/elements';
 
 
 import AddTask from '../AddTaskComponent/addTask';
-import CustomList from '../ListComponent/list';
+import CustomList from '../ListComponent/listComponent';
 
 type RootStackParamList = {
     Home: undefined;
